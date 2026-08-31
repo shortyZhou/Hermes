@@ -5,4 +5,4 @@
 - 仅限**非商业用途**。
 - 转载或引用请**标明来源**：https://github.com/shortyZhou/Hermes
 
-- 我的 GitHub 账户：https://github.com/ariafang1071-bit
+- 协作者 GitHub 账户：https://github.com/ariafang1071-bit
